@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T21:36:07.378Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="NTm7Fg5YdsKHCiOMqKm_" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T21:36:43.402Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="wsBqdO_pLPyf1xFr3bkH" version="13.10.9" type="github">
   <diagram id="qM06MgW-gL-EkChnqFOd" name="Page-1">
     <mxGraphModel dx="1603" dy="1656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
             <mxPoint x="1" y="19.08" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SAxWrN6NDsW0q7hudvpC-24" value="Lightwait DB&lt;br&gt;(ex. MS Access)" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/file-types-outline-1/64/dbs_sql_mysql_database_mdb_oracle_files-128.png;align=center;" vertex="1" parent="1">
+        <mxCell id="SAxWrN6NDsW0q7hudvpC-24" value="Lightweight DB&lt;br&gt;(ex. MS Access)" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/file-types-outline-1/64/dbs_sql_mysql_database_mdb_oracle_files-128.png;align=center;" vertex="1" parent="1">
           <mxGeometry x="-125.75" y="-525.75" width="45.75" height="45.75" as="geometry" />
         </mxCell>
       </root>

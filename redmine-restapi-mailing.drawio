@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T21:36:43.402Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="wsBqdO_pLPyf1xFr3bkH" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T21:40:31.299Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="mOAKvtQMwJ0Xu2LxrLPD" version="13.10.9" type="github">
   <diagram id="qM06MgW-gL-EkChnqFOd" name="Page-1">
     <mxGraphModel dx="1603" dy="1656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,32 +46,34 @@
         <mxCell id="SAxWrN6NDsW0q7hudvpC-6" value="&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Polling and Get via REST API&lt;/span&gt;" style="fillColor=#c0f5a9;dashed=0;outlineConnect=0;strokeWidth=2;html=1;align=center;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.eip.polling_consumer;direction=west;" vertex="1" parent="1">
           <mxGeometry x="-330" y="-677.5" width="109" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="SAxWrN6NDsW0q7hudvpC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SAxWrN6NDsW0q7hudvpC-11" target="SAxWrN6NDsW0q7hudvpC-18">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="SAxWrN6NDsW0q7hudvpC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SAxWrN6NDsW0q7hudvpC-38" target="SAxWrN6NDsW0q7hudvpC-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-70" y="-647.4999999999999" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="SAxWrN6NDsW0q7hudvpC-23" value="Sending Mail" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SAxWrN6NDsW0q7hudvpC-19">
           <mxGeometry x="0.3138" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SAxWrN6NDsW0q7hudvpC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SAxWrN6NDsW0q7hudvpC-11" target="SAxWrN6NDsW0q7hudvpC-24">
+        <mxCell id="SAxWrN6NDsW0q7hudvpC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SAxWrN6NDsW0q7hudvpC-38" target="SAxWrN6NDsW0q7hudvpC-24">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-120" y="-622" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-120" y="-550" />
-              <mxPoint x="-120" y="-550" />
+              <mxPoint x="-132" y="-580" />
+              <mxPoint x="-130" y="-580" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SAxWrN6NDsW0q7hudvpC-26" value="Storing Issue" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SAxWrN6NDsW0q7hudvpC-25">
           <mxGeometry x="0.2488" relative="1" as="geometry">
-            <mxPoint y="-5.43" as="offset" />
+            <mxPoint y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SAxWrN6NDsW0q7hudvpC-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SAxWrN6NDsW0q7hudvpC-11" target="SAxWrN6NDsW0q7hudvpC-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SAxWrN6NDsW0q7hudvpC-11" value="Polling Program" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="-672.5" width="50" height="50" as="geometry" />
+        <mxCell id="SAxWrN6NDsW0q7hudvpC-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SAxWrN6NDsW0q7hudvpC-38" target="SAxWrN6NDsW0q7hudvpC-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-120" y="-647.4999999999999" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="SAxWrN6NDsW0q7hudvpC-16" value="REST API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-499" y="-672.5" width="80" height="41" as="geometry" />
@@ -90,11 +92,12 @@
         <mxCell id="SAxWrN6NDsW0q7hudvpC-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/74-outlook-128.png;align=left;" vertex="1" parent="1">
           <mxGeometry x="360" y="-664" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="SAxWrN6NDsW0q7hudvpC-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SAxWrN6NDsW0q7hudvpC-24" target="SAxWrN6NDsW0q7hudvpC-11">
+        <mxCell id="SAxWrN6NDsW0q7hudvpC-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SAxWrN6NDsW0q7hudvpC-24" target="SAxWrN6NDsW0q7hudvpC-38">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-90" y="-623" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-80" y="-550" />
-              <mxPoint x="-80" y="-550" />
+              <mxPoint x="-80" y="-600" />
+              <mxPoint x="-80" y="-600" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -104,7 +107,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SAxWrN6NDsW0q7hudvpC-24" value="Lightweight DB&lt;br&gt;(ex. MS Access)" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/file-types-outline-1/64/dbs_sql_mysql_database_mdb_oracle_files-128.png;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-125.75" y="-525.75" width="45.75" height="45.75" as="geometry" />
+          <mxGeometry x="-130" y="-515.75" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxWrN6NDsW0q7hudvpC-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/sphericalcons/128/file_c.png;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-132.5" y="-684" width="52.5" height="52.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
